@@ -93,3 +93,9 @@ Como aspectos destacables mencionaríamos:
   - Animación final de particulas en forma de fuegos artificiales.
   
 * Alejandro Hernández Padrón:
+  - Agrupación de los GameObject en las respectivas habitaciones presentes en la casa y adición de interruptores.
+  - Animación de inicio del juego.
+  - Temporizador de fin del juego.
+  - Elementos de la UI de la camara.
+  - Integración con DialogFlow mediante reconocimiento de voz en dispositivos Android.
+  - Integración de la API Watson de IBM para reproducir la respuesta de DialogFlow mediante voz.
