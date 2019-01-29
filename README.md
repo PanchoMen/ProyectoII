@@ -28,8 +28,10 @@ Para el resto de GamePads se mantiene la orientación original de los ejes y se 
 
 A lo largo del mapa de juego, existen multiples elementos que el jugador puede recoger, para usar posteriormente. Para ello se debe apuntar con la retícula al objeto, si se puede interactuar con éste, la retícula cambiará de forma y al pulsar el botón, el jugador recogerá el objeto.
 
-Para que el jugador pueda acceder a su inventario, debe realizar un movimiento especifico con la cabeza. Este movimiento es como si el jugador mirar a su abdomen. Al regresar la cabeza a la posición anterior, se podrá observar frente al jugador, la UI del inventario.  
-![Texto alternativo](https://github.com/PanchoMen/ProyectoII/blob/master/Recursos/Captura%20de%20pantalla%202019-01-29%20a%20las%2020.20.32.png)
+<div><img src="https://github.com/PanchoMen/ProyectoII/blob/master/Recursos/Captura%20de%20pantalla%202019-01-29%20a%20las%2020.30.20.png" width="600"/></div>
+
+Para que el jugador pueda acceder a su inventario, debe realizar un movimiento especifico con la cabeza. Este movimiento es como si el jugador mirar a su abdomen. Al regresar la cabeza a la posición anterior, se podrá observar frente al jugador, la UI del inventario.
+<div><img src="https://github.com/PanchoMen/ProyectoII/blob/master/Recursos/Captura%20de%20pantalla%202019-01-29%20a%20las%2020.20.32.png" width="600"/></div>
 *Debido al gesto seleccionado para desplegar el inventario, es posible que en ocasiones éste, interfiera en la interacción con otros objetos, por ello, si los objetos se encuentran en determinada trayectoria, no se efectuará la interacción, sino que se desplegará el inventario. Para solucionarlo, el jugador debe alejarse ligeramente del objeto para cambiar el angulo entre éste y su cabeza.*
 
 ### Herramientas
