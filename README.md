@@ -14,6 +14,8 @@ El proyecto consiste en el desarrollo de una aplicación VR para smartphones en 
 Nuestro proyecto es lo que se conoce como un juego de escape room, el personaje, despierta en una casa y debe salir de ella investigando y enontrando objetos que le ayuden en dicha tarea.
 El jugador en este caso se ve amenazado por la existencia de una bomba, por lo que debe desactivar la bomba en el tiempo estipulado o habrá perdido.
 
+### Forma de Juego
+
 ### Herramientas
 #### Unity3D
 Como es obvio, hemos empleado el entorno de desarrollo Unity, además, hemos hecho uso de su herramienta colaborativa, *Collab*, para poder realizar el trabajo de forma descentralizada.
