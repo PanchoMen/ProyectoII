@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6d624e041b71234197a0ea54553fe66, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1
+    name: Linterna
+    description: 
+    isStackable: 0
+    isEquipable: 1
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: 8c7e2f0bad9f04a53b0fa752af57e602, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1057435902739058, guid: 270c366eb7f5e493c965abf3e56a779c,
+      type: 2}
+  - id: 2
+    name: Pila
+    description: 
+    isStackable: 1
+    isEquipable: 0
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: 1cd8529279a8949249fae8b59a31c84c, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1867787623322988, guid: 01e82ba5aded943b1b3da3232d1ff9fa,
+      type: 2}
+  - id: 3
+    name: Libreta
+    description: 
+    isStackable: 0
+    isEquipable: 1
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: d67fd041b5f7249238c512c4b71467cc, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1922882112850512, guid: 45e2d26a025c94053a22239a9c2e0622,
+      type: 2}
+  - id: 4
+    name: Alicates
+    description: 
+    isStackable: 0
+    isEquipable: 1
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: a4f4f25dcf0fc49aabbfb81c002b9491, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1086489978152086, guid: ec4ff40ecea7c47b0a038aab4c4e09c0,
+      type: 2}
+  - id: 10
+    name: "Llave Ba\xF1o Dormitorio"
+    description: 
+    isStackable: 0
+    isEquipable: 0
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: 2f949b54dbcfc47efbb384a29b4e0271, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1832402224027208, guid: cb098e81bc347451ea7f7864d170c11d,
+      type: 2}
+  - id: 11
+    name: Llave Dormitorio
+    description: 
+    isStackable: 0
+    isEquipable: 0
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: 2f949b54dbcfc47efbb384a29b4e0271, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1832402224027208, guid: cb098e81bc347451ea7f7864d170c11d,
+      type: 2}
+  - id: 12
+    name: Llave Estudio
+    description: 
+    isStackable: 0
+    isEquipable: 0
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: 2f949b54dbcfc47efbb384a29b4e0271, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1832402224027208, guid: cb098e81bc347451ea7f7864d170c11d,
+      type: 2}
+  - id: 13
+    name: "Llave Ba\xF1o"
+    description: 
+    isStackable: 0
+    isEquipable: 0
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: 2f949b54dbcfc47efbb384a29b4e0271, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1832402224027208, guid: cb098e81bc347451ea7f7864d170c11d,
+      type: 2}
+  - id: 14
+    name: Llave Habitacion
+    description: 
+    isStackable: 0
+    isEquipable: 0
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: 2f949b54dbcfc47efbb384a29b4e0271, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1832402224027208, guid: cb098e81bc347451ea7f7864d170c11d,
+      type: 2}
+  - id: 15
+    name: Llave Cocina
+    description: 
+    isStackable: 0
+    isEquipable: 0
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: 2f949b54dbcfc47efbb384a29b4e0271, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1832402224027208, guid: cb098e81bc347451ea7f7864d170c11d,
+      type: 2}
+  - id: 16
+    name: Llave Salida
+    description: 
+    isStackable: 0
+    isEquipable: 0
+    scrollPos: {x: 0, y: 0}
+    itemImage: {fileID: 21300000, guid: 2f949b54dbcfc47efbb384a29b4e0271, type: 3}
+    pickUpSound: {fileID: 0}
+    itemPrefab: {fileID: 1832402224027208, guid: cb098e81bc347451ea7f7864d170c11d,
+      type: 2}
