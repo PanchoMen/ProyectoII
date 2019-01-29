@@ -79,5 +79,11 @@ Como aspectos destacables mencionaríamos:
 ### Reparto de Tareas
 * Francisco Javier Mendoza Álvarez:
 
-* Imar Abreu Díaz
+* Imar Abreu Díaz: 
+  - Cambio de aspecto estético de la casa (texturas y materiales).
+  - Realización de la animación de los interruptores de la luz y la caja de fusibles, con los respectivos scripts para encender y apagar las luces.
+  - Añadir sonidos a las acciones que lo requerían.
+  - Creación de las llaves y scripts para poder desbloquear las puertas.
+  - Animación final de particulas en forma de fuegos artificiales.
+  
 * Alejandro Hernández Padrón
