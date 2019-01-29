@@ -19,8 +19,10 @@ Al tratarse de un juego VR para smartphones es necesario la utilización de una 
 A su vez, se ha orientado el desarrollo para su uso en conjunto con un *GamePad* para el control de los movimientos.
 Existen dos configuraciones posibles para el GamePad:  
 + **GamePad "VRBOX":**  
-Se ha considerado el uso del GamePad disponible por la profesora, sin embargo se ha alterado su configuración para poder emplear el mando con una sola mano, de manera vertical. Para ello se han mapeado los botones tipo "gatillo" que existen en el lateral del mando, y se han alterado los ejes del joystick para adaptarlos a su nueva posición de uso.  
-![GamePads](https://github.com/PanchoMen/ProyectoII/blob/master/Recursos/GamePad.png)  
+Se ha considerado el uso del GamePad disponible por la profesora, sin embargo se ha alterado su configuración para poder emplear el mando con una sola mano, de manera vertical. Para ello se han mapeado los botones tipo "gatillo" que existen en el lateral del mando, y se han alterado los ejes del joystick para adaptarlos a su nueva posición de uso.
+
+<div><img align="center" src="https://github.com/PanchoMen/ProyectoII/blob/master/Recursos/GamePad.png" width="600"/></div>
+
 + **Otros:**  
 Para el resto de GamePads se mantiene la orientación original de los ejes y se ha mapeado el botón con referencia _0_ para ejecutar los clicks en pantalla.
 
@@ -59,6 +61,16 @@ De manera simplificada, el contenido del *GameController* es el siguiente:
 * __GamepadController:__
 Se encarga de elegir al comienzo del juego, la configuración adecuada para cada tipo de mando. Por ello, es necesario que el mando esté conectado antes de iniciar el juego, para que pueda detectarlo y seleccionar su configuración, si no, se apricará una por defecto.
 
+* __Inventario:__
+Existen un conjunto de scripts para la creación y gestión del inventario.
+
+* __ChatBot:__
+Se ha hecho uso de las API's de Dialog Flow y Watson. A su vez se han implementado ciertas funciones para combinar ambas API's
+
 ### Aspectos destacables
+Como aspectos destacables mencionaríamos:
+* El sistema de inventario, que dota al juego de unas características necesarias en este tipo de juegos. Para su implementación se han seguido una [serie de tutoriales](https://www.youtube.com/watch?v=7If0gKu4H9c) para la base y se han hecho modificaciones o añadido nuevas funcionalidades para adaptarlo a nuestro juego.
+
+* El ChatBot, que es capaz de interpretar el lenguaje natural haciendo uso del microfono del smartphone y devolver una respuesta en el mismo formato.
 
 ### Reparto de Tareas
