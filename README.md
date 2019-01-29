@@ -81,8 +81,9 @@ Como aspectos destacables mencionaríamos:
   - Diseño del modelo 3D de la casa
   - Implementación del sistema de inventario
   - Creación de los objetos inventariables y sus funcionalidades
-  - Implementación de los scripts, animaciones, etc referentes a la bomba. Como la animación al cortar el cable adecuado o la explosión al cortar uno incorrecto.
+  - Implementación de los scripts, animaciones, etc referentes a la bomba. Como la animación al cortar el cable adecuado o la explosión al cortar uno incorrecto
   - Adaptación de la configuración para cada tipo de GamePad
+  - Escenas inicial y final
 
 * Imar Abreu Díaz: 
   - Cambio de aspecto estético de la casa (texturas y materiales).
