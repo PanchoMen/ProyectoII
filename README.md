@@ -32,6 +32,7 @@ A lo largo del mapa de juego, existen multiples elementos que el jugador puede r
 
 Para que el jugador pueda acceder a su inventario, debe realizar un movimiento especifico con la cabeza. Este movimiento es como si el jugador mirar a su abdomen. Al regresar la cabeza a la posición anterior, se podrá observar frente al jugador, la UI del inventario.
 <div><img src="https://github.com/PanchoMen/ProyectoII/blob/master/Recursos/Jan-29-2019%2020-42-36.gif" width="600"/></div>
+
 *Debido al gesto seleccionado para desplegar el inventario, es posible que en ocasiones éste, interfiera en la interacción con otros objetos, por ello, si los objetos se encuentran en determinada trayectoria, no se efectuará la interacción, sino que se desplegará el inventario. Para solucionarlo, el jugador debe alejarse ligeramente del objeto para cambiar el angulo entre éste y su cabeza.*
 
 ### Herramientas
@@ -84,6 +85,7 @@ Como aspectos destacables mencionaríamos:
   - Implementación de los scripts, animaciones, etc referentes a la bomba. Como la animación al cortar el cable adecuado o la explosión al cortar uno incorrecto
   - Adaptación de la configuración para cada tipo de GamePad
   - Escenas inicial y final
+  - Animación de la apertura de las puertas
 
 * Imar Abreu Díaz: 
   - Cambio de aspecto estético de la casa (texturas y materiales).
